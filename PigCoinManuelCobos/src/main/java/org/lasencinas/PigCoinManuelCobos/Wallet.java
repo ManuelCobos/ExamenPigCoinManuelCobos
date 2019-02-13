@@ -35,7 +35,7 @@ public class Wallet {
     public void generateKeyPair() {
         setAddress(GenSig.generateKeyPair().getPublic());
     }
-}
+
     
 @Override
 public String toString() {
