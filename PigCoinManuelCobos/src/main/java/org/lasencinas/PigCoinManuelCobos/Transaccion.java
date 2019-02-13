@@ -1,5 +1,7 @@
 package org.lasencinas.PigCoinManuelCobos;
 
+import java.security.PublicKey;
+
 public class Transaccion {
 
 	
@@ -11,5 +13,12 @@ public class Transaccion {
 	private PublicKey pKey_recipient = null;
 	private int pigcoins = 0;
 	private String message = null;
+	
+	
+	
+	
+	
+	
+	
 	
 }
